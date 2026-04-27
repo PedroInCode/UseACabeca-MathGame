@@ -1,4 +1,3 @@
-# MathGame
 
 # 🐾 Jogo de Combinação de Animais
 
